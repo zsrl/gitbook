@@ -1,8 +1,10 @@
 # Table of contents
 
+* [首页](README.md)
+
 ## 从零开始玩量化
 
-* [⛏ 数据获取](README.md)
+* [⛏ 数据获取](<README (1).md>)
   * [akshare](cong-ling-kai-shi-wan-liang-hua/shu-ju-huo-qu/akshare.md)
   * [pywencai](cong-ling-kai-shi-wan-liang-hua/shu-ju-huo-qu/pywencai.md)
   * [xtdata](cong-ling-kai-shi-wan-liang-hua/shu-ju-huo-qu/xtdata.md)
