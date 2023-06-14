@@ -58,8 +58,30 @@ csv是最常见的一种二维数据表存储方式，可以使用pandas直接�
 
 json是web领域最常见的数据格式，量化领域，可以作为辅助配置文件，进行使用，不建议用它存储时序数据。
 
+### HDF5（文件）
+
+> 主页：[https://www.hdfgroup.org/solutions/hdf5/](https://www.hdfgroup.org/solutions/hdf5/)
+
+HDF5是一种高性能数据存储文件格式，pandas原生支持。
+
+### Feather（文件）
+
+> 主页：[https://github.com/wesm/feather](https://github.com/wesm/feather)
+
+Feather是[Apache Arrow](https://arrow.apache.org/)的静态数据存储格式，可以快速操作DataFrame数据，pandas原生支持。
+
+### Parquet（文件）
+
+> 主页：[https://parquet.apache.org/](https://parquet.apache.org/)
+
+Apache Parquet 是一种开源的、面向列的数据文件格式，专为高效的数据存储和检索而设计。pandas原生支持。
+
 ### sqlite（文件型数据库）
+
+> 主页：[https://www.sqlite.org/](https://www.sqlite.org/)
 
 sqlite是文件，也是数据库，可以支持SOL查询，适合关系型数据的存储，python内置支持对sqlite的操作。
 
 > 其他的数据库还有很多，比如mongoDB，mysql，influxedDB等，但这些数据库部署比较复杂，除非你要做很完善的数据系统，不然我认为没必要，会浪费很多时间，增加问题的复杂度。
+
+###
