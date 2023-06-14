@@ -28,13 +28,13 @@ jupyter notebook
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## VSCode中使用
 
 我个人还是喜欢在VSCode中使用，在VSCode中点击`.ipynb`后缀文件，会自动安装下边两个插件，没自动安装就手动自己安装下。&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 插件启用后，就可以直接在VSCode中运行`.ipynb`，相比网页版，既方便又美观，强烈推荐。&#x20;
 

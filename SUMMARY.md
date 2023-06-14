@@ -1,6 +1,6 @@
 # Table of contents
 
-* [首页](README.md)
+* [欢迎来到我的小站](README.md)
 
 ## 《从零开始玩量化》
 
